@@ -1,0 +1,6 @@
+
+****************************
+    HOLA    HOLA    HOLA
+****************************
+Un mensaje cualquiera.
+Para probar GIT con GITHUH
