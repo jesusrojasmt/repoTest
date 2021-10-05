@@ -3,4 +3,5 @@
     HOLA    HOLA    HOLA
 ****************************
 Un mensaje cualquiera.
-Para probar GIT con GITHUH
+Para probar GIT con GITHUB
+Ahora si está bien escrito!
